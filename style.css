@@ -1,0 +1,52 @@
+.firstcenter{
+	text-align:center;
+}
+
+.firstpart{
+	background-image:url("night.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment:fixed;
+	
+}
+
+.second{
+	background-image:url("cat2.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment:fixed;
+}
+
+.third{
+	background-image:url("cat3.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment:fixed;
+}
+
+
+#startintro{
+	Font-family:'Roboto';
+	font-weight:400;
+	font-style: normal;
+	text-align: center;
+	font-size: 18px;
+	color:black;
+}
+
+#headingone{
+	text-align:center;
+}
+
+#headingzero{
+	text-align:center;
+	font-family:
+}
+
+#title{
+	text-decoration:underline;
+}
+
+#right {
+    direction: rtl;
+}
